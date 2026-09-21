@@ -1,3 +1,4 @@
+All the versions that is needed:
 streamlit>=1.32
 pandas>=2.0
 numpy>=1.24
